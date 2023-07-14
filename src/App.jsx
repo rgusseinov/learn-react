@@ -3,6 +3,7 @@ import supabase from './services/supabase-config'
 import Account from './components/Account'
 import Auth from './components/Auth'
 
+
 function App() {
   const [session, setSession] = useState(null)
 
