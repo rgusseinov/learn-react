@@ -7,6 +7,8 @@ const App =() => {
       Welcome!
       <br />
       <p>This is staging project</p>
+      <br />
+      Upload file
     </div>
   )
 }
