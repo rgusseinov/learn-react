@@ -5,6 +5,8 @@ const App =() => {
   return (
     <div>
       Welcome!
+      <br />
+      <p>This is staging project</p>
     </div>
   )
 }
