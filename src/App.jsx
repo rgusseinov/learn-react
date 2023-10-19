@@ -9,6 +9,8 @@ const App =() => {
       <p>This is staging project</p>
       <br />
       <p>Added feature #1</p>
+      <p>Added VR</p>
+      <p>Added CR </p>
     </div>
   )
 }
