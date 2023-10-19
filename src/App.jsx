@@ -14,6 +14,7 @@ const App =() => {
       <p>3. Added Approval Route </p>
       <p> Feature 2 (add upload file in VEF module) </p>
       <p> Feature 2.1 (Add PDF generation) / prioriry: High </p>
+      <p> Feature 2.2. Remove .env file </p>
     </div>
   )
 }
