@@ -10,6 +10,7 @@ const App =() => {
       <br />
       <p>Added feature #1</p>
       <p>1. Creating multiple file upload for CTD</p>
+      <p>2. Ammendmens from Mehtab for RTD team</p>
     </div>
   )
 }
