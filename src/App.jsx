@@ -13,6 +13,7 @@ const App =() => {
       <p>2. Upload multiple files</p>
       <p>3. Added Approval Route </p>
       <p> Feature 2 (add upload file in VEF module) </p>
+      <p> Feature 2.1 (Add PDF generation) / prioriry: High </p>
     </div>
   )
 }
