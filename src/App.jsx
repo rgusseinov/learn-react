@@ -12,7 +12,7 @@ const App =() => {
       <br />
       <p>2. Upload multiple files</p>
       <p>3. Added Approval Route </p>
-      <p>Feature 2 </p>
+      <p> Feature 2 (add upload file in VEF module) </p>
     </div>
   )
 }
